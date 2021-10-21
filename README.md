@@ -17,7 +17,7 @@
 - ❓ Ask me about anything related to my Projects or React  
   
 
-- ⚡ Fun fact: I use tabs over spaces🤩  
+- ⚡ Fun fact: I buy books more often than I read them 
   
 
 <br/>  
