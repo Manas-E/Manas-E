@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a Frontend Engineer making the web beautiful by adding some curves 😉
+I'm a Frontend Engineer making the web beautiful by adding some curves 😉 <br>
 came here to polish my skills by contributing to Open Source Community, and fill the space in my [portfolio](https://devbiceps.in/)<br><br>Also Tinkering with Gen AI Tools 🤖 <br><br>Feel free to connect if you need my help on your project 🤝<br><br> 
 
 
